@@ -11,6 +11,10 @@ var exampleHtml = `
 <body>
   <h1>Hello!</h1>
   <a href="/other-page">A link to another page</a>
+  <a href="/other-other-page">A link to another other page</a>
+  <div>
+	<a href="/other-div-link">A link in a div</a>
+  </div>
 </body>
 </html>
 `
